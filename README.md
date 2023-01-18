@@ -18,5 +18,5 @@ Ich habe außerdem einen simplen Bewegungscode eingefügt.
 Vielleicht könnte man das über Knöpfe lösen.
 
 ### <a name="3"></a>Mittwoch, 18. Januar 2023
-In der heutigen Stunde haben wir
+In der heutigen Stunde haben wir uns dazu entschieden, doch das Spiel "Schaf und Wolf" zu programmieren. Dazu haben wir schonmal damit angefangen, die Bewegungen für die Spielfiguren einzustellen.
 
