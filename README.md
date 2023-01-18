@@ -20,5 +20,5 @@ Ich habe außerdem einen simplen Bewegungscode eingefügt.
 Vielleicht könnte man das über Knöpfe lösen.
 
 ### <a name="3"></a>Mittwoch, 18. Januar 2023
-In der heutigen Stunde haben wir uns dazu entschieden, doch das Spiel "Schaf und Wolf" zu programmieren. Dazu haben wir schonmal damit angefangen, die Bewegungen für die Spielfiguren einzustellen.
+In der heutigen Stunde haben wir uns dazu entschieden, doch das Spiel "Schaf und Wolf" zu programmieren. Dazu haben wir schonmal damit angefangen, die Bewegungen für die Spielfiguren einzustellen. Dabei haben wir uns entschieden, dem Wolf die Tasten QWAS und den vier Schafen jeweils ER, TZ, UI und OP für linksoben und rechtsoben zu geben.
 
