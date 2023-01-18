@@ -22,3 +22,11 @@ Vielleicht könnte man das über Knöpfe lösen.
 ### <a name="3"></a>Mittwoch, 18. Januar 2023
 In der heutigen Stunde haben wir uns dazu entschieden, doch das Spiel "Schaf und Wolf" zu programmieren. Dazu haben wir schonmal damit angefangen, die Bewegungen für die Spielfiguren einzustellen. Dabei haben wir uns entschieden, dem Wolf die Tasten QWAS und den vier Schafen jeweils ER, TZ, UI und OP für linksoben und rechtsoben zu geben.
 
+Lehrer sind Schafe, Wolf is Hnady 
+Schafe soln handy umkreisen und einsameln
+handy und lehrer pixeln, für lehrer ggf symbol benutzen
+lehrer pixel sind rot, handy/schüler grün
+sieg/niederlage bildschirm ist dann auch grün/rot
+lehrer müssen auf feld von handy um zu gewinnen
+
+oben sind die 8 obersten felder von actors (ggf schüler oder anderes gepixeltes besetzt), wenn handy auf eins dieser 8 felder kommt, gewinnt es /schüler oder handy gewinnt
