@@ -37,3 +37,4 @@ oben sind die 4 obersten schwarzen felder von actors am besten gepixelte Türen/
 Es gibt zwei level(beide gleich)nur die steine sehen anders aus
 nächste stunde mit schwarzStrich WIN MACHEN
 
+NAME IDEE: MOBILE CATCH    
