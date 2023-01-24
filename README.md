@@ -25,7 +25,7 @@ Vielleicht könnte man das über Knöpfe lösen.
 In der heutigen Stunde haben wir uns dazu entschieden, doch das Spiel "Schaf und Wolf" zu programmieren. Dazu haben wir schonmal damit angefangen, die Bewegungen für die Spielfiguren einzustellen. Dabei haben wir uns entschieden, dem Wolf die Tasten QWAS und den vier Schafen jeweils ER, TZ, UI und OP für linksoben und rechtsoben zu geben.
 
 ### <a name="4"></a>Dienstag, 14. Januar 2023
-Wir haben es heute geschafft, dass alle 4 Schafssteine jeweils den Wolf töten, wenn diese auf dem selben Spielfeld stehen. Nächste Stunde wollen wir dann einen Win-Screen für den Wolf erschaffen, der aktiviert wird, wenn dieser auf der obersten Reihe schwarzer Felder steht.
+Wir haben es heute geschafft, dass alle 4 Schafssteine jeweils den Wolf töten, wenn diese auf dem selben Spielfeld stehen. Nächste Stunde wollen wir dann einen Win-Screen für den Wolf erschaffen, der aktiviert wird, wenn dieser auf der obersten Reihe schwarzer Felder steht. Dafür haben wir schon mal schwarze Striche als Actor hinzugefügt, der den Wolf quasi töten soll.
 ![image](https://user-images.githubusercontent.com/111414678/214286973-ae73ed0b-8841-4400-9360-3f6373477ef0.png)
 
 
