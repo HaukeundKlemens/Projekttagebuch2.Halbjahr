@@ -34,5 +34,6 @@ lehrer pixel sind rot, handy/schüler grün
 sieg/niederlage bildschirm ist dann auch grün/rot
 lehrer müssen auf feld von handy um zu gewinnen
 oben sind die 4 obersten schwarzen felder von actors am besten gepixelte Türen/Ausgänge (ggf schüler oder anderes gepixeltes besetzt), wenn handy auf eins dieser 8 felder kommt, gewinnt es /schüler oder handy gewinnt
-
+Es gibt zwei level(beide gleich)nur die steine sehen anders aus
+nächste stunde mit schwarzStrich WIN MACHEN
 
