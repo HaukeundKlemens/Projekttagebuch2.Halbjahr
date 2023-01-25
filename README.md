@@ -32,6 +32,9 @@ Wir haben es heute geschafft, dass alle 4 Schafssteine jeweils den Wolf töten, 
 
 ### <a name="5"></a>Mittwoch, 25. Januar 2023
 Heute haben wir zuerst mit Pixelart unsere Spielsteine bearbeitet, sodass man auf ihnen die Tasten erkennen kann, mit welchen man sie steuern kann. Danach haben wir angefangen, ein Win-Screen und ein GameOver-Screen zu machen. Das hat noch nicht geklappt und wir müssen das Problem nächste Stunde lösen.
+![image](https://user-images.githubusercontent.com/111414678/214513105-2148314c-99e1-424f-a26e-dda32e005ff0.png)
+![image](https://user-images.githubusercontent.com/111414678/214513180-a4b4e848-d507-47d2-a974-b0fea02724f6.png)
+
 
 
 
