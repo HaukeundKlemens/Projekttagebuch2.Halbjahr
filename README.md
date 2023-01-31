@@ -35,6 +35,10 @@ Heute haben wir zuerst mit Pixelart unsere Spielsteine bearbeitet, sodass man au
 ![image](https://user-images.githubusercontent.com/111414678/214513105-2148314c-99e1-424f-a26e-dda32e005ff0.png)
 ![image](https://user-images.githubusercontent.com/111414678/214513180-a4b4e848-d507-47d2-a974-b0fea02724f6.png)
 
+### <a name="6"></a>Dienstag, 31. Januar 2023
+In der heutigen Stunde haben wir die erste Viertelstunde damit verbracht, den Computer anzumachen. Scheinbar war die Konfiguration von Microsoft Paint zu viel für den Computer. 
+
+
 
 
 
