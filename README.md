@@ -44,7 +44,7 @@ In der heutigen Stunde haben wir die erste Viertelstunde damit verbracht, den Co
 
 ### <a name="7"></a>Mittwoch, 1. Februar 2023
 
-Heute haben wir versucht, das Problem mit der zu großen Hitbox zu lösen. Dabei haben wir herausgefunden, dass die Hitbox sich verändert, je nachdem, wie viele Pixel das Pixelart eines Actors hat. Deshalb haben wir unser Pixelart so angepasst, dass die Hitbox richtig ist. Daneben haben wir auch überlegt, ein Explosion hinzuzufügen, das haben wir aber dann doch nicht gemacht, aber erstmal trotzdem deaktiviert im Code gelassen. 
+Heute haben wir versucht, das Problem mit der zu großen Hitbox zu lösen. Dabei haben wir herausgefunden, dass die Hitbox sich verändert, je nachdem, wie viele Pixel das Pixelart eines Actors hat. Deshalb haben wir unser Pixelart so angepasst, dass die Hitbox richtig ist. Daneben haben wir auch überlegt, ein Explosion hinzuzufügen, das haben wir aber dann doch nicht gemacht, aber erstmal trotzdem deaktiviert im Code gelassen. Außerdem haben wir uns Ende der Stunde dazu entschieden, mit weißen Strichen dafür zu sorgen, dass Figuren, die auf weiße Felder kommen, direkt sterben. Das wollen wir nächste Stunde angehen. 
 
 
 
