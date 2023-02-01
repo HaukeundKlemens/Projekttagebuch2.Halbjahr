@@ -40,7 +40,7 @@ Heute haben wir zuerst mit Pixelart unsere Spielsteine bearbeitet, sodass man au
 ![image](https://user-images.githubusercontent.com/111414678/214513180-a4b4e848-d507-47d2-a974-b0fea02724f6.png)
 
 ### <a name="6"></a>Dienstag, 31. Januar 2023
-In der heutigen Stunde haben wir die erste Viertelstunde damit verbracht, den Computer anzumachen. Scheinbar war die Konfiguration von Microsoft Paint zu viel für den Computer. Danach haben wir ein Problem gelöst, wobei unser Code wegen einer unerklärten Variable nicht funktioniert hat. Das lag im Endeffekt daran, dass wir einen unauffälligen Rechtschreibfehler gemacht haben. Danach hatten wir ein neues Problem, nämlich war auf einmal die Hitbox Striche, die den Siegesbildschirm aktivieren sollen, zu groß. Dieses Problem konnten wir in der heutigen Stunde nicht lösen.
+In der heutigen Stunde haben wir die erste Viertelstunde damit verbracht, den Computer anzumachen. Scheinbar war die Konfiguration von Microsoft Paint zu viel für den Computer. Danach haben wir ein Problem gelöst, wobei unser Code wegen einer unerklärten Variable nicht funktioniert hat. Das lag im Endeffekt daran, dass wir einen unauffälligen Rechtschreibfehler gemacht haben. Danach hatten wir ein neues Problem, nämlich war auf einmal die Hitbox der Striche, die den Siegesbildschirm aktivieren sollen, zu groß. Dieses Problem konnten wir in der heutigen Stunde nicht lösen.
 
 ### <a name="7"></a>Mittwoch, 1. Februar 2023
 
