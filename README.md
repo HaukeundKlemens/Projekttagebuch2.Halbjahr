@@ -10,7 +10,9 @@
 
 [Mittwoch, 25. Januar 2023](#5)
 
-[Mittwoch, 31. Januar 2023](#6)
+[Dienstag, 31. Januar 2023](#6)
+
+[Mittwoch, 1. Februar 2023](#7)
 
 
 
@@ -40,7 +42,9 @@ Heute haben wir zuerst mit Pixelart unsere Spielsteine bearbeitet, sodass man au
 ### <a name="6"></a>Dienstag, 31. Januar 2023
 In der heutigen Stunde haben wir die erste Viertelstunde damit verbracht, den Computer anzumachen. Scheinbar war die Konfiguration von Microsoft Paint zu viel für den Computer. Danach haben wir ein Problem gelöst, wobei unser Code wegen einer unerklärten Variable nicht funktioniert hat. Das lag im Endeffekt daran, dass wir einen unauffälligen Rechtschreibfehler gemacht haben. Danach hatten wir ein neues Problem, nämlich war auf einmal die Hitbox Striche, die den Siegesbildschirm aktivieren sollen, zu groß. Dieses Problem konnten wir in der heutigen Stunde nicht lösen.
 
+### <a name="7"></a>Mittwoch, 31. Januar 2023
 
+GLUGG
 
 
 
