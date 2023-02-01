@@ -42,9 +42,9 @@ Heute haben wir zuerst mit Pixelart unsere Spielsteine bearbeitet, sodass man au
 ### <a name="6"></a>Dienstag, 31. Januar 2023
 In der heutigen Stunde haben wir die erste Viertelstunde damit verbracht, den Computer anzumachen. Scheinbar war die Konfiguration von Microsoft Paint zu viel für den Computer. Danach haben wir ein Problem gelöst, wobei unser Code wegen einer unerklärten Variable nicht funktioniert hat. Das lag im Endeffekt daran, dass wir einen unauffälligen Rechtschreibfehler gemacht haben. Danach hatten wir ein neues Problem, nämlich war auf einmal die Hitbox Striche, die den Siegesbildschirm aktivieren sollen, zu groß. Dieses Problem konnten wir in der heutigen Stunde nicht lösen.
 
-### <a name="7"></a>Mittwoch, 31. Januar 2023
+### <a name="7"></a>Mittwoch, 1. Februar 2023
 
-GLUGG
+Heute haben wir versucht, das Problem mit der zu großen Hitbox zu lösen. Dabei haben wir herausgefunden, dass die Hitbox sich verändert, je nachdem, wie viele Pixel das Pixelart eines Actors hat. Deshalb haben wir unser Pixelart so angepasst, dass die Hitbox richtig ist. Daneben haben wir auch überlegt, ein Explosion hinzuzufügen, das haben wir aber dann doch nicht gemacht, aber erstmal trotzdem deaktiviert im Code gelassen. 
 
 
 
