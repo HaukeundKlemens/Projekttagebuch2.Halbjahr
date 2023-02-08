@@ -14,6 +14,8 @@
 
 [Mittwoch, 1. Februar 2023](#7)
 
+[Mittwoch, 8. Februar 2023](#8)
+
 
 
 ### <a name="1"></a>Mittwoch, 11. Januar 2023
@@ -46,6 +48,7 @@ In der heutigen Stunde haben wir die erste Viertelstunde damit verbracht, den Co
 
 Heute haben wir versucht, das Problem mit der zu großen Hitbox zu lösen. Dabei haben wir herausgefunden, dass die Hitbox sich verändert, je nachdem, wie viele Pixel das Pixelart eines Actors hat. Deshalb haben wir unser Pixelart so angepasst, dass die Hitbox richtig ist. Daneben haben wir auch überlegt, ein Explosion hinzuzufügen, das haben wir aber dann doch nicht gemacht, aber erstmal trotzdem deaktiviert im Code gelassen. Außerdem haben wir uns Ende der Stunde dazu entschieden, mit weißen Strichen dafür zu sorgen, dass Figuren, die auf weiße Felder kommen, direkt sterben. Damit haben schon angefangen, allerdings gibt es im WeißStrich-Actor scheinbar einen Fehler, der aber nicht gezeigt wird bzw. es steht nur, dass es einen Fehler gibt, aber es ist nichts rot markiert. Das wollen wir nächste Stunde angehen. 
 
+### <a name="8"></a>Mittwoch, 8. Februar 2023
 
 
 Lehrer sind Schafe, Wolf is Hnady 
