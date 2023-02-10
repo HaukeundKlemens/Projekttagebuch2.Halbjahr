@@ -16,6 +16,8 @@
 
 [Mittwoch, 8. Februar 2023](#8)
 
+[Freitag, 10. Februar 2023](#9)
+
 
 
 ### <a name="1"></a>Mittwoch, 11. Januar 2023
@@ -51,6 +53,8 @@ Heute haben wir versucht, das Problem mit der zu großen Hitbox zu lösen. Dabei
 ### <a name="8"></a>Mittwoch, 8. Februar 2023
 Wir haben in der heutigen Stunde unseren Win-Screen beendet, der funktioniert jetzt. Außerdem haben wir mit den "Weißstrichen" weitergemacht. Diese sollen dafür sorgen, dass Wolf und Schafe nicht aus vorgesehenen Bereich herauskommen. Da gibt es noch Probleme, um die wir uns in den nächsten Stunden kümmern wollen. Auch einen Bildschirm für GameOver wollen wir in den nächsten Stunden machen.
 ![image](https://user-images.githubusercontent.com/111414678/217473023-afefc599-0c9e-4aa0-add0-5acc0ce77e4b.png)
+
+### <a name="9"></a>Freitag, 10. Februar 2023
 
 
 
