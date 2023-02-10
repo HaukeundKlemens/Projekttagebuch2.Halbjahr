@@ -55,7 +55,7 @@ Wir haben in der heutigen Stunde unseren Win-Screen beendet, der funktioniert je
 ![image](https://user-images.githubusercontent.com/111414678/217473023-afefc599-0c9e-4aa0-add0-5acc0ce77e4b.png)
 
 ### <a name="9"></a>Freitag, 10. Februar 2023
-
+Heute hamwa ned jemagt
 
 
 
