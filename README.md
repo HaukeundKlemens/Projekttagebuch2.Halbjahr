@@ -58,7 +58,7 @@ Wir haben in der heutigen Stunde unseren Win-Screen beendet, der funktioniert je
 Heute hat Herr Buhl die Schafe alle in einem Actor programmiertz, außerdem gab es einen Stromausfall, weshalb ich nicht weiß, was wir sonst noch gemacht haben.
 
 ### <a name="10"></a>Mittwoch, 15. Februar 2023
-Heute war Kleeeeemempf nicht da.
+Heute war Kleeeeemempf nicht da, außerdem habe ich die "killer" an der ASeite eingefügt.
 
 
 
