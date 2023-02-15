@@ -18,7 +18,7 @@
 
 [Freitag, 10. Februar 2023](#9)
 
-
+[Mittwoch, 15. Februar 2023](#10)
 
 ### <a name="1"></a>Mittwoch, 11. Januar 2023
 Heute habe ich damit angefangen, an dem neuen Greenfootprojekt zu arbeiten. Es so soll wahrscheinlich ein Dame Spiel werden. Dazu habe ich schon die vier Spielfiguren gepixelt und das Schachbrett eingefügt.
@@ -57,7 +57,7 @@ Wir haben in der heutigen Stunde unseren Win-Screen beendet, der funktioniert je
 ### <a name="9"></a>Freitag, 10. Februar 2023
 Heute hamwa ned jemagt
 
-
+### <a name="10"></a>Mittwoch, 15. Februar 2023
 
 Lehrer sind Schafe, Wolf is Hnady 
 Schafe soln handy umkreisen und einsameln
