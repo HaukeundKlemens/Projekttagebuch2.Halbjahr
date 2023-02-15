@@ -59,6 +59,8 @@ Heute hat Herr Buhl die Schafe alle in einem Actor programmiertz, außerdem gab 
 
 ### <a name="10"></a>Mittwoch, 15. Februar 2023
 Heute war Kleeeeemempf nicht da, außerdem habe ich die "killer" an der ASeite eingefügt.
+![image](https://user-images.githubusercontent.com/111414678/218969263-141b7209-e804-4cae-8634-f292ec82bc5f.png)
+
 
 
 
