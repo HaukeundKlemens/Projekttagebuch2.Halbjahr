@@ -55,9 +55,13 @@ Wir haben in der heutigen Stunde unseren Win-Screen beendet, der funktioniert je
 ![image](https://user-images.githubusercontent.com/111414678/217473023-afefc599-0c9e-4aa0-add0-5acc0ce77e4b.png)
 
 ### <a name="9"></a>Freitag, 10. Februar 2023
-Heute hamwa ned jemagt
+Heute hat Herr Buhl die Schafe alle in einem Actor programmiertz, außerdem gab es einen Stromausfall, weshalb ich nicht weiß, was wir sonst noch gemacht haben.
 
 ### <a name="10"></a>Mittwoch, 15. Februar 2023
+Heute war Kleeeeemempf nicht da.
+
+
+
 
 Lehrer sind Schafe, Wolf is Hnady 
 Schafe soln handy umkreisen und einsameln
