@@ -20,6 +20,9 @@
 
 [Mittwoch, 15. Februar 2023](#10)
 
+[Mittwoch, 22. Februar 2023](#11)
+
+
 ### <a name="1"></a>Mittwoch, 11. Januar 2023
 Heute habe ich damit angefangen, an dem neuen Greenfootprojekt zu arbeiten. Es so soll wahrscheinlich ein Dame Spiel werden. Dazu habe ich schon die vier Spielfiguren gepixelt und das Schachbrett eingefügt.
 ![image](https://user-images.githubusercontent.com/111414678/211747398-fd8f5111-25e3-4922-9c60-048833a04172.png)
@@ -55,11 +58,17 @@ Wir haben in der heutigen Stunde unseren Win-Screen beendet, der funktioniert je
 ![image](https://user-images.githubusercontent.com/111414678/217473023-afefc599-0c9e-4aa0-add0-5acc0ce77e4b.png)
 
 ### <a name="9"></a>Freitag, 10. Februar 2023
-Heute hat Herr Buhl die Schafe alle in einem Actor programmiertz, außerdem gab es einen Stromausfall, weshalb ich nicht weiß, was wir sonst noch gemacht haben.
-
+Heute haben wir mit Herrn Buhls Hilfe die Schafe alle in einem Actor programmiert. Dazu haben wir mit dem GameOver-Screen weitergemacht. 
+Außerdem gab es einen Stromausfall.
 ### <a name="10"></a>Mittwoch, 15. Februar 2023
 Heute war Kleeeeemempf nicht da, außerdem habe ich die "killer" an der ASeite eingefügt.
 ![image](https://user-images.githubusercontent.com/111414678/218969263-141b7209-e804-4cae-8634-f292ec82bc5f.png)
+
+### <a name="11"></a>Mittwoch, 22. Februar 2023
+
+
+
+
 
 
 
