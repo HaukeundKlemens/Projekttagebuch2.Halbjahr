@@ -74,6 +74,7 @@ In der heutigen Stunde haben wir es hinbekommen, dass die Weißstriche überall 
 Heute haben wir uns über die Töne, die im Spiel vorkommen sollen, Gedanken gemacht. Außerdem haben wir mit der Projektseite weitergemacht.
 Wir haben auch noch eine zweite Welt erschaffen, die von der ersten Welt abgeleitet ist. In dieser wollen wir noch einen weiteren Actor hinzufügen, der die Schwierigkeit erhöhten soll. 
 ![image](https://user-images.githubusercontent.com/111414678/221173728-d903db31-881e-4b48-a91b-c93a56093fda.png)
+REHJTFRQjker
 
 
 
