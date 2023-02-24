@@ -71,8 +71,7 @@ Heute war Klemens nicht da. Ich habe die "Weißstriche" eingefügt, was noch nic
 In der heutigen Stunde haben wir es hinbekommen, dass die Weißstriche überall funktionieren. Das heißt, dass jetzt alle Schafe sterben und der Wolf verliert, sollte er versuchen, das Spielfeld zu verlassen bzw. ein einzelnes Schaf verschwindet dadurch und bei dem Wolf öffnet sich der GameOver-Screen in Form eines großen roten Kreuzes, was bei den Schafen nicht auftaucht, da es ja noch andere gibt und die Schafe dadurch ja noch nicht verloren haben.
 
 ### <a name="12"></a>Freitag, 24. Februar 2023
-Heute haben wir uns über die Töne, die im Spiel vorkommen sollen, Gedanken gemacht. Dabei sind wir zu Schluss gekommen, dass...
-
+Heute haben wir uns über die Töne, die im Spiel vorkommen sollen, Gedanken gemacht. Außerdem haben wir mit der Projektseite weitergemacht.
 
 
 
