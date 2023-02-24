@@ -72,7 +72,7 @@ In der heutigen Stunde haben wir es hinbekommen, dass die Weißstriche überall 
 
 ### <a name="12"></a>Freitag, 24. Februar 2023
 Heute haben wir uns über die Töne, die im Spiel vorkommen sollen, Gedanken gemacht. Außerdem haben wir mit der Projektseite weitergemacht.
-
+Wir haben auch noch eine zweite Welt erschaffen, die von der ersten Welt abgeleitet ist. In dieser wollen wir noch einen weiteren Actor hinzufügen, der die Schwierigkeit erhöhten soll.
 
 
 
