@@ -22,6 +22,8 @@
 
 [Mittwoch, 22. Februar 2023](#11)
 
+[Freitag, 24. Februar 2023](#12)
+
 
 ### <a name="1"></a>Mittwoch, 11. Januar 2023
 Heute habe ich damit angefangen, an dem neuen Greenfootprojekt zu arbeiten. Es so soll wahrscheinlich ein Dame Spiel werden. Dazu habe ich schon die vier Spielfiguren gepixelt und das Schachbrett eingefügt.
@@ -60,6 +62,7 @@ Wir haben in der heutigen Stunde unseren Win-Screen beendet, der funktioniert je
 ### <a name="9"></a>Freitag, 10. Februar 2023
 Heute haben wir mit Herrn Buhls Hilfe die Schafe alle in einem Actor programmiert. Dazu haben wir mit dem GameOver-Screen weitergemacht. 
 Außerdem gab es einen Stromausfall.
+
 ### <a name="10"></a>Mittwoch, 15. Februar 2023
 Heute war Klemens nicht da. Ich habe die "Weißstriche" eingefügt, was noch nicht komplett funktioniert hat, daran müssen wir nächste Stunde weiterarbeiten.
 ![image](https://user-images.githubusercontent.com/111414678/218969263-141b7209-e804-4cae-8634-f292ec82bc5f.png)
@@ -67,7 +70,7 @@ Heute war Klemens nicht da. Ich habe die "Weißstriche" eingefügt, was noch nic
 ### <a name="11"></a>Mittwoch, 22. Februar 2023
 In der heutigen Stunde haben wir es hinbekommen, dass die Weißstriche überall funktionieren. Das heißt, dass jetzt alle Schafe sterben und der Wolf verliert, sollte er versuchen, das Spielfeld zu verlassen bzw. ein einzelnes Schaf verschwindet dadurch und bei dem Wolf öffnet sich der GameOver-Screen in Form eines großen roten Kreuzes, was bei den Schafen nicht auftaucht, da es ja noch andere gibt und die Schafe dadurch ja noch nicht verloren haben.
 
-
+### <a name="12"></a>Freitag, 24. Februar 2023
 
 
 
