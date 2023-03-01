@@ -87,7 +87,7 @@ Wir haben es heute geschafft, dass die zweite Welt funktioniert, indem wir den G
 
 
 ### <a name="14"></a>Freitag, 3. März 2023
-In der heutigen Stunde haben wir es hinbekommen, dass der Gnark fehlerfrei Schafe und Wölfe isst ohne andere Probleme zu machen.
+In der heutigen Stunde am Distanzlerntag haben wir es hinbekommen, dass der Gnark fehlerfrei Schafe und Wölfe isst ohne andere Probleme zu machen.
 ![image](https://user-images.githubusercontent.com/111414678/222082514-455a2dec-d2ea-4bb5-b194-da22bbbfdc3b.png)
 ![image](https://user-images.githubusercontent.com/111414678/222082615-973b1efd-5b0f-4366-8eea-8abf2a0f4aee.png)
 
