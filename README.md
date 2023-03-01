@@ -26,6 +26,8 @@
 
 [Mittwoch, 1. März 2023](#13)
 
+[Mittwoch, 3. März 2023](#14)
+
 
 ### <a name="1"></a>Mittwoch, 11. Januar 2023
 Heute habe ich damit angefangen, an dem neuen Greenfootprojekt zu arbeiten. Es so soll wahrscheinlich ein Dame Spiel werden. Dazu habe ich schon die vier Spielfiguren gepixelt und das Schachbrett eingefügt.
@@ -80,7 +82,11 @@ REHJTFRQjker
 
 
 ### <a name="13"></a>Mittwoch, 1. März 2023
+In der heutigen Episode hat Hauke mal wieder nichts gemacht aber gut. 
+Wir haben es heute geschafft, dass die zweite Welt funktioniert, indem wir den Gnark dazu gebracht haben, zufällig herumzulaufen, bei Wänden umzukehren und Schafe und Wölfe zu essen. 
 
+### <a name="14"></a>Freitag, 3. März 2023
+In der heutigen Stunde 
 
 
 
