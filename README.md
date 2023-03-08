@@ -95,3 +95,6 @@ In der Stunde am Distanzlerntag am Freitag hatten wir es hinbekommen, dass der G
 
 ### <a name="15"></a>Mittwoch, 8. März 2023
 Heute haben wir an der Projektseite weitergearbeitet.
+
+
+nächste stunde eeee : REGISTER mit LINKS für Projektseite machen (aus ersten projektseite rauskopieren)
