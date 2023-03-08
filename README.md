@@ -26,7 +26,9 @@
 
 [Mittwoch, 1. März 2023](#13)
 
-[Mittwoch, 3. März 2023](#14)
+[Freitag, 3. März 2023](#14)
+
+[Mittwoch, 8. März 2023](#15)
 
 
 ### <a name="1"></a>Mittwoch, 11. Januar 2023
@@ -91,6 +93,8 @@ In der Stunde am Distanzlerntag am Freitag hatten wir es hinbekommen, dass der G
 ![image](https://user-images.githubusercontent.com/111414678/222082514-455a2dec-d2ea-4bb5-b194-da22bbbfdc3b.png)
 ![image](https://user-images.githubusercontent.com/111414678/222082615-973b1efd-5b0f-4366-8eea-8abf2a0f4aee.png)
 
+### <a name="15"></a>Mittwoch, 8. März 2023
+Heute haben wir an der Projektseite weitergearbeitet.
 
 
 Lehrer sind Schafe, Wolf is Hnady 
