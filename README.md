@@ -96,5 +96,7 @@ In der Stunde am Distanzlerntag am letzten Freitag hatten wir es hinbekommen, da
 ### <a name="15"></a>Mittwoch, 8. März 2023
 Heute haben wir an der Projektseite weitergearbeitet.
 
+### <a name="16"></a>Freitag, 10. März 2023
+Auch heute haben wir an der Projektseite gearbeitet.
 
 nächste stunde eeee : REGISTER mit LINKS für Projektseite machen (aus ersten projektseite rauskopieren)
