@@ -30,6 +30,9 @@
 
 [Mittwoch, 8. März 2023](#15)
 
+[Freitag, 10. März 2023](#16)
+
+
 
 ### <a name="1"></a>Mittwoch, 11. Januar 2023
 Heute habe ich damit angefangen, an dem neuen Greenfootprojekt zu arbeiten. Es so soll wahrscheinlich ein Dame Spiel werden. Dazu habe ich schon die vier Spielfiguren gepixelt und das Schachbrett eingefügt.
