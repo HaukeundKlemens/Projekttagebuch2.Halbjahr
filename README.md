@@ -94,9 +94,10 @@ In der Stunde am Distanzlerntag am letzten Freitag hatten wir es hinbekommen, da
 ![image](https://user-images.githubusercontent.com/111414678/222082615-973b1efd-5b0f-4366-8eea-8abf2a0f4aee.png)
 
 ### <a name="15"></a>Mittwoch, 8. März 2023
-Heute haben wir an der Projektseite weitergearbeitet.
+Heute haben wir an der Projektseite weitergearbeitet. Wir haben dabei unter anderem ein Register für die Projektseite gemacht.
 
 ### <a name="16"></a>Freitag, 10. März 2023
-Auch heute haben wir an der Projektseite gearbeitet.
+Auch heute haben wir an der Projektseite gearbeitet und uns Gedanken über die Geräusche für WinOver und GameOver gemacht.
+Dabei haben wir eine Soundbibliothek mit Geräuschen gefunden, die wir dafür nutzen wollen. Diese wollen wir entweder in der nächsten Stunde oder zuhause in das Spiel einfügen.
 
-nächste stunde eeee : REGISTER mit LINKS für Projektseite machen (aus ersten projektseite rauskopieren)
+nääääääste stunne: wolf und vlt auch schafsgeräusch aus soundbib abspielen und dadurch ins Spiel einfügen
