@@ -106,6 +106,9 @@ Auch heute haben wir an der Projektseite gearbeitet und uns Gedanken über die G
 Dabei haben wir eine Soundbibliothek mit Geräuschen gefunden, die wir dafür nutzen wollen. Diese wollen wir entweder in der nächsten Stunde oder zuhause in das Spiel einfügen.
 
 ### <a name="17"></a>Mittwoch, 15. März 2023
+Wir haben in der heutigen Stunde...
+
+
 
 nääääääste stunne: wolf und vlt auch schafsgeräusch aus soundbib abspielen und dadurch ins Spiel einfügen
 https://www.videvo.net/de/lizenzfreie-soundeffekte/bibliothek/
