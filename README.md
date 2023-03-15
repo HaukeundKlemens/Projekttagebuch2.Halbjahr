@@ -109,7 +109,7 @@ Dabei haben wir eine Soundbibliothek mit Geräuschen gefunden, die wir dafür nu
 Wir haben in der heutigen Stunde wieder an der Projektseite weitergearbeitet.
 
 
-
+ZUERsT: Icons von die Einzelne Actor in ProJektSEite EinfÜGEn
 nääääääste stunne: wolf und vlt auch schafsgeräusch aus soundbib abspielen und dadurch ins Spiel einfügen
 https://www.videvo.net/de/lizenzfreie-soundeffekte/bibliothek/
 
