@@ -32,6 +32,8 @@
 
 [Freitag, 10. März 2023](#16)
 
+[Mittwoch, 15. März 2023](#17)
+
 
 
 ### <a name="1"></a>Mittwoch, 11. Januar 2023
@@ -102,6 +104,8 @@ Heute haben wir an der Projektseite weitergearbeitet. Wir haben dabei unter ande
 ### <a name="16"></a>Freitag, 10. März 2023
 Auch heute haben wir an der Projektseite gearbeitet und uns Gedanken über die Geräusche für WinOver und GameOver gemacht.
 Dabei haben wir eine Soundbibliothek mit Geräuschen gefunden, die wir dafür nutzen wollen. Diese wollen wir entweder in der nächsten Stunde oder zuhause in das Spiel einfügen.
+
+### <a name="17"></a>Mittwoch, 15. März 2023
 
 nääääääste stunne: wolf und vlt auch schafsgeräusch aus soundbib abspielen und dadurch ins Spiel einfügen
 https://www.videvo.net/de/lizenzfreie-soundeffekte/bibliothek/
