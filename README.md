@@ -108,8 +108,10 @@ Dabei haben wir eine Soundbibliothek mit Geräuschen gefunden, die wir dafür nu
 ### <a name="17"></a>Mittwoch, 15. März 2023
 Wir haben in der heutigen Stunde wieder an der Projektseite weitergearbeitet.
 
+wolf link ytb: https://www.youtube.com/watch?v=pMUvB5XJ9Pc
 
 ZUERsT: Icons von die Einzelne Actor in ProJektSEite EinfÜGEn
 nääääääste stunne: wolf und vlt auch schafsgeräusch aus soundbib abspielen und dadurch ins Spiel einfügen
 https://www.videvo.net/de/lizenzfreie-soundeffekte/bibliothek/
 
+Piratenbib: https:yout.com (ube rauskopiern)
