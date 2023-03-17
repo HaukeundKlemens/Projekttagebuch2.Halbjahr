@@ -112,9 +112,7 @@ Dabei haben wir eine Soundbibliothek mit Geräuschen gefunden, die wir dafür nu
 Wir haben in der heutigen Stunde wieder an der Projektseite weitergearbeitet.
 
 ### <a name="18"></a>Freitag, 17. März 2023
-In der heutigen Stunde haben wir uns Gedanken über die Geräusche von Schaf und Wolf gemacht und zwei passende Geräusche gefunden.
-
-wolf link ytb: https://www.youtube.com/watch?v=pMUvB5XJ9Pc
+In der heutigen Stunde haben wir uns Gedanken über die Geräusche von Schaf und Wolf gemacht und zwei passende Geräusche gefunden. Außerdem haben wir bisher erfolglos versucht, eine Methode zu finden, die die Aktoren nach einer Bewegung Fachvvimdähn laeßt
 
 ZUERsT: Icons von die Einzelne Actor in ProJektSEite EinfÜGEn
 nääääääste stunne: wolf und vlt auch schafsgeräusch aus soundbib abspielen und dadurch ins Spiel einfügen
