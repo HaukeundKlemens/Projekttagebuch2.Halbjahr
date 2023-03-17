@@ -34,6 +34,9 @@
 
 [Mittwoch, 15. März 2023](#17)
 
+[Freitag, 17. März 2023](#18)
+
+
 
 
 ### <a name="1"></a>Mittwoch, 11. Januar 2023
@@ -107,6 +110,9 @@ Dabei haben wir eine Soundbibliothek mit Geräuschen gefunden, die wir dafür nu
 
 ### <a name="17"></a>Mittwoch, 15. März 2023
 Wir haben in der heutigen Stunde wieder an der Projektseite weitergearbeitet.
+
+### <a name="18"></a>Freitag, 17. März 2023
+In der heutigen Stunde haben wir uns Gedanken über die Geräusche von Schaf und Wolf gemacht und zwei passende Geräusche gefunden.
 
 wolf link ytb: https://www.youtube.com/watch?v=pMUvB5XJ9Pc
 
