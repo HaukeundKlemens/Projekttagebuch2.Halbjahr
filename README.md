@@ -115,7 +115,7 @@ Dabei haben wir eine Soundbibliothek mit Geräuschen gefunden, die wir dafür nu
 Wir haben in der heutigen Stunde wieder an der Projektseite weitergearbeitet.
 
 ### <a name="18"></a>Freitag, 17. März 2023
-In der heutigen Stunde haben wir uns Gedanken über die Geräusche von Schaf und Wolf gemacht und zwei passende Geräusche gefunden. Außerdem haben wir bisher erfolglos versucht, eine Methode zu finden, die die Aktoren nach einer Bewegung Fachvvimdähn laeßt
+In der heutigen Stunde haben wir uns Gedanken über die Geräusche von Schaf und Wolf gemacht und zwei passende Geräusche gefunden. Außerdem haben wir bisher erfolglos versucht, eine Methode zu finden, die die Aktoren nach einer Bewegung verschwinden lässt.
 
 ### <a name="19"></a>Freitag, 24. März 2023
 Auch heute haben wir wieder an der Projektseite gearbeitet.
