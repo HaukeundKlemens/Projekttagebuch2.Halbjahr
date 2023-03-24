@@ -36,6 +36,9 @@
 
 [Freitag, 17. März 2023](#18)
 
+[Freitag, 24. März 2023](#19)
+
+
 
 
 
@@ -113,6 +116,10 @@ Wir haben in der heutigen Stunde wieder an der Projektseite weitergearbeitet.
 
 ### <a name="18"></a>Freitag, 17. März 2023
 In der heutigen Stunde haben wir uns Gedanken über die Geräusche von Schaf und Wolf gemacht und zwei passende Geräusche gefunden. Außerdem haben wir bisher erfolglos versucht, eine Methode zu finden, die die Aktoren nach einer Bewegung Fachvvimdähn laeßt
+
+### <a name="19"></a>Freitag, 24. März 2023
+Auch heute haben wir wieder an der Projektseite gearbeite
+
 
 ZUERsT: Icons von die Einzelne Actor in ProJektSEite EinfÜGEn
 nääääääste stunne: wolf und vlt auch schafsgeräusch aus soundbib abspielen und dadurch ins Spiel einfügen
