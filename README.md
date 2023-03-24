@@ -118,7 +118,7 @@ Wir haben in der heutigen Stunde wieder an der Projektseite weitergearbeitet.
 In der heutigen Stunde haben wir uns Gedanken über die Geräusche von Schaf und Wolf gemacht und zwei passende Geräusche gefunden. Außerdem haben wir bisher erfolglos versucht, eine Methode zu finden, die die Aktoren nach einer Bewegung Fachvvimdähn laeßt
 
 ### <a name="19"></a>Freitag, 24. März 2023
-Auch heute haben wir wieder an der Projektseite gearbeitet
+Auch heute haben wir wieder an der Projektseite gearbeitet.
 
 
 ZUERsT: Icons von die Einzelne Actor in ProJektSEite EinfÜGEn
