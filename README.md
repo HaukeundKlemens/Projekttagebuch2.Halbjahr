@@ -120,6 +120,8 @@ In der heutigen Stunde haben wir uns Gedanken über die Geräusche von Schaf und
 ### <a name="19"></a>Freitag, 24. März 2023
 Auch heute haben wir wieder an der Projektseite gearbeitet. ((((Zusätzlich haben wir auch die Idee gehabt, uns mit Flappy Bird zu beschäftigen.)))))
 
+IDEE: Gnark bewegt sich bei Betätigung einer Taste einmal in eine beliebige Richtung.
+
 
 ZUERsT: Icons von die Einzelne Actor in ProJektSEite EinfÜGEn
 nääääääste stunne: wolf und vlt auch schafsgeräusch aus soundbib abspielen und dadurch ins Spiel einfügen
