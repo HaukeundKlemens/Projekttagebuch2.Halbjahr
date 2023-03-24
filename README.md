@@ -119,7 +119,7 @@ In der heutigen Stunde haben wir uns Gedanken über die Geräusche von Schaf und
 
 ### <a name="19"></a>Freitag, 24. März 2023
 Auch heute haben wir wieder an der Projektseite gearbeitet. ((((Zusätzlich haben wir auch die Idee gehabt, uns mit Flappy Bird zu beschäftigen.)))))
-
+Außerdem wollen wir noch den Gnark verbessern und haben dafür verschiedene Ideen gesammelt, über welche wir uns in einem ausführlichen Meeting austauschen und beraten konnten, um zu einer zufriedenstellenden Entscheidung bei der späteren Wahl jener Methode kommen zu können, sollte dies in jener hier angegebenen Form tatsächlich möglich sein.
 IDEE: Gnark bewegt sich bei Betätigung einer Taste einmal in eine beliebige Richtung.
 
 
