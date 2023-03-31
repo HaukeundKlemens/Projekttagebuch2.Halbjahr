@@ -38,6 +38,8 @@
 
 [Freitag, 24. März 2023](#19)
 
+[Freitag, 31. März 2023](#20)
+
 
 
 
@@ -122,6 +124,8 @@ Auch heute haben wir wieder an der Projektseite gearbeitet. ((((Zusätzlich habe
 Außerdem wollen wir noch den Gnark verbessern und haben dafür verschiedene Ideen gesammelt.
 IDEE: Gnark bewegt sich bei Betätigung einer Taste einmal in eine beliebige Richtung.
 
+
+### <a name="20"></a>Freitag, 31. März 2023
 
 ZUERsT: Icons von die Einzelne Actor in ProJektSEite EinfÜGEn
 nääääääste stunne: wolf und vlt auch schafsgeräusch aus soundbib abspielen und dadurch ins Spiel einfügen
