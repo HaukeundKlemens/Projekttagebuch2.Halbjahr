@@ -126,6 +126,9 @@ IDEE: Gnark bewegt sich bei Betätigung einer Taste einmal in eine beliebige Ric
 
 
 ### <a name="20"></a>Freitag, 31. März 2023
+Wir haben heute unsere Dateien übertragen.
+
+
 
 ZUERsT: Icons von die Einzelne Actor in ProJektSEite EinfÜGEn
 nääääääste stunne: wolf und vlt auch schafsgeräusch aus soundbib abspielen und dadurch ins Spiel einfügen
