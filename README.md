@@ -122,10 +122,7 @@ Wir haben in der heutigen Stunde wieder an der Projektseite weitergearbeitet.
 In der heutigen Stunde haben wir uns Gedanken über die Geräusche von Schaf und Wolf gemacht und zwei passende Geräusche gefunden. Außerdem haben wir bisher erfolglos versucht, eine Methode zu finden, die die Aktoren nach einer Bewegung verschwinden lässt.
 
 ### <a name="19"></a>Freitag, 24. März 2023
-Auch heute haben wir wieder an der Projektseite gearbeitet. ((((Zusätzlich haben wir auch die Idee gehabt, uns mit Flappy Bird zu beschäftigen.)))))
-Außerdem wollen wir noch den Gnark verbessern und haben dafür verschiedene Ideen gesammelt.
-IDEE: Gnark bewegt sich bei Betätigung einer Taste einmal in eine beliebige Richtung.
-
+Auch heute haben wir wieder an der Projektseite gearbeitet.
 
 ### <a name="20"></a>Freitag, 31. März 2023
 Wir haben heute unsere Dateien übertragen.
