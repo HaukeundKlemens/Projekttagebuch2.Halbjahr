@@ -40,6 +40,8 @@
 
 [Freitag, 31. März 2023](#20)
 
+[Sonntag, 09. April 2023](#21)
+
 
 
 
@@ -130,6 +132,7 @@ Wir haben heute unsere Dateien übertragen.
 
 https://www.youtube.com/watch?v=b3iwD-0Eky0
 
+### <a name="21"></a>Freitag, 09. April 2023
 
 ZUERsT: Icons von die Einzelne Actor in ProJektSEite EinfÜGEn
 nääääääste stunne: wolf und vlt auch schafsgeräusch aus soundbib abspielen und dadurch ins Spiel einfügen
