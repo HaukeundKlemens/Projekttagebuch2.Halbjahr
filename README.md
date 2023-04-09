@@ -134,7 +134,7 @@ https://www.youtube.com/watch?v=b3iwD-0Eky0
 
 ### <a name="21"></a>Freitag, 09. April 2023
 
-Heute haben wir noch letzte Arbeiten an dem "Gnark" als Aktor vorgenommen, so dass dieser sich in der Mitte hin und her bewegt, das hatten wir zunächst mit der set location Methode versucht, da dies am Rand jedoch nicht mehr funktioniert haben wir die move Methode benutzt.
+Heute haben wir noch letzte Arbeiten an dem "Gnark" als Aktor vorgenommen, so dass dieser sich in der Mitte hin und her bewegt, das hatten wir zunächst mit der set location Methode versucht, da dies am Rand jedoch nicht mehr funktioniert haben wir die move Methode benutzt. :)
 
 
 
