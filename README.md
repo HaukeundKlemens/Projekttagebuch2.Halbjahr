@@ -134,6 +134,10 @@ https://www.youtube.com/watch?v=b3iwD-0Eky0
 
 ### <a name="21"></a>Freitag, 09. April 2023
 
+kjqshd
+
+
+
 ZUERsT: Icons von die Einzelne Actor in ProJektSEite EinfÜGEn
 nääääääste stunne: wolf und vlt auch schafsgeräusch aus soundbib abspielen und dadurch ins Spiel einfügen
 https://www.videvo.net/de/lizenzfreie-soundeffekte/bibliothek/
