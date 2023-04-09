@@ -138,8 +138,3 @@ Heute haben wir noch letzte Arbeiten an dem "Gnark" als Aktor vorgenommen, so da
 
 
 
-ZUERsT: Icons von die Einzelne Actor in ProJektSEite EinfÜGEn
-nääääääste stunne: wolf und vlt auch schafsgeräusch aus soundbib abspielen und dadurch ins Spiel einfügen
-https://www.videvo.net/de/lizenzfreie-soundeffekte/bibliothek/
-
-Piratenbib: https:yout.com (ube rauskopiern)
